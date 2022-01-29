@@ -1,5 +1,6 @@
 import org.apache.log4j.Logger;
 
+
 public class Utils {
 
     //visszaadja a legnagyobb elem indexét
